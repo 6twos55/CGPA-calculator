@@ -1,0 +1,15 @@
+/Users/Wisdom/Projects/cgpa/cgpa/bin/Debug/net6.0/cgpa
+/Users/Wisdom/Projects/cgpa/cgpa/bin/Debug/net6.0/cgpa.deps.json
+/Users/Wisdom/Projects/cgpa/cgpa/bin/Debug/net6.0/cgpa.runtimeconfig.json
+/Users/Wisdom/Projects/cgpa/cgpa/bin/Debug/net6.0/cgpa.dll
+/Users/Wisdom/Projects/cgpa/cgpa/bin/Debug/net6.0/cgpa.pdb
+/Users/Wisdom/Projects/cgpa/cgpa/obj/Debug/net6.0/cgpa.csproj.AssemblyReference.cache
+/Users/Wisdom/Projects/cgpa/cgpa/obj/Debug/net6.0/cgpa.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Wisdom/Projects/cgpa/cgpa/obj/Debug/net6.0/cgpa.AssemblyInfoInputs.cache
+/Users/Wisdom/Projects/cgpa/cgpa/obj/Debug/net6.0/cgpa.AssemblyInfo.cs
+/Users/Wisdom/Projects/cgpa/cgpa/obj/Debug/net6.0/cgpa.csproj.CoreCompileInputs.cache
+/Users/Wisdom/Projects/cgpa/cgpa/obj/Debug/net6.0/cgpa.dll
+/Users/Wisdom/Projects/cgpa/cgpa/obj/Debug/net6.0/refint/cgpa.dll
+/Users/Wisdom/Projects/cgpa/cgpa/obj/Debug/net6.0/cgpa.pdb
+/Users/Wisdom/Projects/cgpa/cgpa/obj/Debug/net6.0/cgpa.genruntimeconfig.cache
+/Users/Wisdom/Projects/cgpa/cgpa/obj/Debug/net6.0/ref/cgpa.dll
